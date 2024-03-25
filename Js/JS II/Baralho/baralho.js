@@ -3,8 +3,6 @@ let opcao = ""
 
  do {
 
-     
-
     opcao = prompt(
         "Cartas no baralho:\n" + baralho.length +
         "\nEscolha uma ação:\n1 - Inserir nova carta\n2 - Puxar carta\n3 - Sair"
